@@ -1,6 +1,6 @@
 # Portfolio-Setup
 
-------------------Sections-------------------
+---------------------------------------------------------Sections----------------------------------------------------------------
 
 1.	Navbar HTML + Navbar CSS - Small Screen/ Big Screen
 2.	Sidebar HTML + Sidebar CSS + Sidebar Functionality
